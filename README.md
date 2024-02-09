@@ -1,2 +1,3 @@
 # flower-animation
-HTML CODE
+HTML css and java code for flower animation 
+Try it and enjoy :)
